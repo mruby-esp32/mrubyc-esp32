@@ -1,0 +1,3 @@
+[submodule "components/mrubyc/mrubyc"]
+	path = components/mrubyc/mrubyc
+	url = https://github.com/pandax381/mrubyc.git
